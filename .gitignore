@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+.claude/
+
+# Data, generated artifacts, and model outputs
+data/
+checkpoints/
+pseudo_labels/
+results/
+experiments/
+
+# Large model/checkpoint artifacts
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Logs
+*.log
