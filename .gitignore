@@ -16,9 +16,6 @@ env/
 .vscode/
 .idea/
 
-# Data, generated artifacts, and model outputs
-data/
-
 # Large model/checkpoint artifacts
 *.bin
 *.safetensors
