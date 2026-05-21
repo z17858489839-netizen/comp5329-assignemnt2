@@ -1,0 +1,38 @@
+[
+  {
+    "method": "fusion_concat",
+    "vqa_accuracy": 66.6,
+    "avg_tokens": 389.6,
+    "token_reduction%": 61.9,
+    "low_pct": 44.8,
+    "mid_pct": 26.6,
+    "full_pct": 28.6
+  },
+  {
+    "method": "fusion_cross_attn",
+    "vqa_accuracy": 52.6,
+    "avg_tokens": 163.8,
+    "token_reduction%": 84.0,
+    "low_pct": 82.4,
+    "mid_pct": 9.0,
+    "full_pct": 8.6
+  },
+  {
+    "method": "fusion_query_only",
+    "vqa_accuracy": 49.6,
+    "avg_tokens": 137.3,
+    "token_reduction%": 86.6,
+    "low_pct": 92.2,
+    "mid_pct": 0.2,
+    "full_pct": 7.6
+  },
+  {
+    "method": "fusion_image_only",
+    "vqa_accuracy": 57.0,
+    "avg_tokens": 247.9,
+    "token_reduction%": 75.8,
+    "low_pct": 69.0,
+    "mid_pct": 14.8,
+    "full_pct": 16.2
+  }
+]

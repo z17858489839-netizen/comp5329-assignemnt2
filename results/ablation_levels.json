@@ -1,0 +1,20 @@
+[
+  {
+    "method": "2_levels",
+    "vqa_accuracy": 47.2,
+    "avg_tokens": 64.0,
+    "token_reduction%": 93.8
+  },
+  {
+    "method": "3_levels",
+    "vqa_accuracy": 66.6,
+    "avg_tokens": 389.6,
+    "token_reduction%": 62.0
+  },
+  {
+    "method": "4_levels",
+    "vqa_accuracy": 47.2,
+    "avg_tokens": 64.0,
+    "token_reduction%": 93.8
+  }
+]

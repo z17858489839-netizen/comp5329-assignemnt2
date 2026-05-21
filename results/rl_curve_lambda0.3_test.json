@@ -1,0 +1,42 @@
+[
+  {
+    "epoch": 1,
+    "policy_acc": 66.6,
+    "mean_reward": 0.6317,
+    "low_pct": 75.4,
+    "mid_pct": 11.4,
+    "full_pct": 13.2
+  },
+  {
+    "epoch": 2,
+    "policy_acc": 56.6,
+    "mean_reward": 0.6424,
+    "low_pct": 57.2,
+    "mid_pct": 6.0,
+    "full_pct": 36.8
+  },
+  {
+    "epoch": 3,
+    "policy_acc": 70.6,
+    "mean_reward": 0.6933,
+    "low_pct": 67.4,
+    "mid_pct": 29.2,
+    "full_pct": 3.4
+  },
+  {
+    "epoch": 4,
+    "policy_acc": 69.0,
+    "mean_reward": 0.739,
+    "low_pct": 52.2,
+    "mid_pct": 31.2,
+    "full_pct": 16.6
+  },
+  {
+    "epoch": 5,
+    "policy_acc": 48.4,
+    "mean_reward": 0.7568,
+    "low_pct": 22.0,
+    "mid_pct": 74.2,
+    "full_pct": 3.8
+  }
+]

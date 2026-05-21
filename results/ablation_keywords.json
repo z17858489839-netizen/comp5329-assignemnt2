@@ -1,0 +1,30 @@
+{
+  "global_questions": {
+    "avg_level": 0.79,
+    "low_pct": 45.3,
+    "mid_pct": 30.4,
+    "full_pct": 24.3,
+    "n": 181
+  },
+  "finegrained_text": {
+    "avg_level": 0.82,
+    "low_pct": 47.5,
+    "mid_pct": 22.5,
+    "full_pct": 30.0,
+    "n": 40
+  },
+  "counting": {
+    "avg_level": 0.77,
+    "low_pct": 50.0,
+    "mid_pct": 22.7,
+    "full_pct": 27.3,
+    "n": 22
+  },
+  "attributes": {
+    "avg_level": 0.73,
+    "low_pct": 46.7,
+    "mid_pct": 33.3,
+    "full_pct": 20.0,
+    "n": 15
+  }
+}

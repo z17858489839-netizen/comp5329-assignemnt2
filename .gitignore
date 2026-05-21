@@ -24,7 +24,6 @@ env/
 data/
 checkpoints/
 pseudo_labels/
-results/
 experiments/
 
 # Large model/checkpoint artifacts

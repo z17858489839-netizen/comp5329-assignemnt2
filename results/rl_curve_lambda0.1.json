@@ -1,0 +1,47 @@
+[
+  {
+    "epoch": 1,
+    "loss": 0.559,
+    "policy_acc": 74.5,
+    "mean_reward": 0.8641,
+    "low_pct": 48.5,
+    "mid_pct": 31.5,
+    "full_pct": 20.0
+  },
+  {
+    "epoch": 2,
+    "loss": 0.3834,
+    "policy_acc": 87.0,
+    "mean_reward": 0.8601,
+    "low_pct": 62.5,
+    "mid_pct": 22.0,
+    "full_pct": 15.5
+  },
+  {
+    "epoch": 3,
+    "loss": 0.2435,
+    "policy_acc": 83.0,
+    "mean_reward": 0.8779,
+    "low_pct": 55.0,
+    "mid_pct": 28.5,
+    "full_pct": 16.5
+  },
+  {
+    "epoch": 4,
+    "loss": 0.1534,
+    "policy_acc": 92.0,
+    "mean_reward": 0.8868,
+    "low_pct": 63.5,
+    "mid_pct": 23.0,
+    "full_pct": 13.5
+  },
+  {
+    "epoch": 5,
+    "loss": 0.1086,
+    "policy_acc": 93.0,
+    "mean_reward": 0.8907,
+    "low_pct": 64.0,
+    "mid_pct": 21.0,
+    "full_pct": 15.0
+  }
+]
