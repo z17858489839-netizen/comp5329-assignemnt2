@@ -1,7 +1,4 @@
 # Python
-__pycache__/
-*.py[cod]
-*.pyo
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
@@ -18,18 +15,11 @@ env/
 .DS_Store
 .vscode/
 .idea/
-.claude/
 
 # Data, generated artifacts, and model outputs
 data/
-checkpoints/
-pseudo_labels/
-experiments/
 
 # Large model/checkpoint artifacts
-*.pt
-*.pth
-*.ckpt
 *.bin
 *.safetensors
 
